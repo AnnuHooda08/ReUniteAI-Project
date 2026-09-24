@@ -1,0 +1,1 @@
+"""Multimodal matching service boundary."""

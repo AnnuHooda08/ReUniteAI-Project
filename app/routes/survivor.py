@@ -1,0 +1,1 @@
+"""Routes for survivor records."""
